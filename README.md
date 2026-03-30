@@ -5,7 +5,7 @@
 An interactive, web-based visualization dashboard built for Level Designers to analyze player telemetry, movement patterns, and combat high-density zones in LILA BLACK.
 
 ## 🚀 Live Demo
-**Access the hosted tool here:** [PASTE_YOUR_STREAMLIT_URL_HERE]
+**Access the hosted tool here:** https://lila-games-apm-assignment-renuka.streamlit.app/
 
 ---
 
